@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+media/
+node_modules/
+dist/
+.vscode/
+.idea/
+.env.example
